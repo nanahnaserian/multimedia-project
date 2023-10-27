@@ -1,1 +1,2 @@
 # multimedia-project
+The apparel project is a web application featuring an online store for clothing items. Users can browse products under different categories, view detailed product information, and add items to their cart for purchase. The project includes a user authentication system, requiring users to log in before accessing the store. Upon successful login, users can view the product listings, add items to their shopping cart, and proceed to checkout. The application ensures a seamless shopping experience while maintaining user security through authentication.
